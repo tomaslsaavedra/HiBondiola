@@ -1,5 +1,6 @@
 .whatsapp {
-    position:fixed left;
+    position:fixed ;
+    float: left;
     width:60px;
     height:60px;
     bottom:40px;
