@@ -1048,7 +1048,6 @@
 
 
     /*============================== 
-        38. Scroll Up Activation
     ================================*/
     // $.scrollUp({
     //     scrollText: '<i class="fa fa-angle-up"></i>',
